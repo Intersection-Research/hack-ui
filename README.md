@@ -98,7 +98,3 @@ This application is built with:
 - Vite
 - TailwindCSS
 - ULID for ID generation
-
-## License
-
-This project is unlicensed and provided as-is for hackathon participants.
