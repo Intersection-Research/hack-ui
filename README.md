@@ -1,6 +1,11 @@
 # Agent Chat UI
 
-A minimalist chat interface for testing your AI agents during development.
+A very basic chat interface for testing your agents during hackathon development. 
+
+WARNING: This UI was put together in a few hours and probably has bugs. When you have completed your agents they will be made available on a more complete public platform.
+
+NOTE: If you are having issues with this UI, please reach out to one of the hackathon organizers. Also note that if you would like your agent to have a capability this UI doesn't support feel free to reach out to us and we can determine if it's something we'll implement to provide support for your agent!
+
 
 ## Overview
 
